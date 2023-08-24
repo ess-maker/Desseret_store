@@ -1,9 +1,5 @@
 <h1 align="center"> Desseret_store</h1>
 
-<p align="center">
-  <img src="src/assets/flower.png" alt="Flower Delivery Website Preview">
-</p>
-
 ## Live Demo
 
 You can access a live demo of the Desseret_store Website [here](https://storedessert.netlify.app/)
