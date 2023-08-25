@@ -6,7 +6,7 @@ You can access a live demo of the Desseret_store Website [here](https://storedes
 
 ## Pages
 
-The Flower Delivery Website consists of the following pages:
+The Desseret store Website consists of the following pages:
 
 - **Home**: Displays featured Desseret arrangements and promotions.
 - **Authentication**: Allows user authentication and account creation for personalized experiences.
